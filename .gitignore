@@ -1,0 +1,12 @@
+# Large datasets and trained models
+data/*.csv
+models/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
